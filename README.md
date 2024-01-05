@@ -44,14 +44,14 @@ This personal portfolio is built using HTML, CSS, and JavaScript. It is designed
   - You should see a dialog that says Hi {Your Name}, Submit Form to Google Sheets wants to...
   - Click Allow
 
-- **5. Add a new project trigger**
+- **5. Add a new project trigger:**
   - Click on Edit > Current project’s triggers.
   - In the dialog click No triggers set up. Click here to add one now.
   - In the dropdowns select doPost
   - Set the events fields to From spreadsheet and On form submit
   - Then click Save
 
-- **5. Publish the project as a web app**
+- **5. Publish the project as a web app:**
   - Click on Publish > Deploy as web app….
   - Set Project Version to New and put initial version in the input field below.
   - Leave Execute the app as: set to Me(your@address.com).
