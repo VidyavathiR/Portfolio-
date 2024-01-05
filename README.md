@@ -14,7 +14,7 @@ This personal portfolio is built using HTML, CSS, and JavaScript. It is designed
 - **Portfolio Sections:**
   - Organized sections such as "About Me," "Projects," "Skills," "Education," and "Contact."
 
-  - **Skills Matrix:**
+- **Skills Matrix:**
   - Visual representation of skills to provide a quick overview.
 
 - **Contact Form:**
@@ -31,11 +31,11 @@ This personal portfolio is built using HTML, CSS, and JavaScript. It is designed
  - First, go to Google Sheets and Start a new spreadsheet with the Blank template.
  - Rename it abc. Or whatever, it doesn't matter.
 
--**2. Create a Google Apps Script**
--Click on Tools > Script Editor… which should open a new tab.
--Rename it Submit Form to Google Sheets. Make sure to wait for it to actually save and update the title before -editing the script.
--Now, delete the function myFunction() {} block within the Code.gs tab.
--Paste the googlesheet.js script in it's place and File > Save:
+- **2. Create a Google Apps Script**
+ - Click on Tools > Script Editor… which should open a new tab.
+ - Rename it Submit Form to Google Sheets. Make sure to wait for it to actually save and update the title before -editing the script.
+ - Now, delete the function myFunction() {} block within the Code.gs tab.
+ - Paste the googlesheet.js script in it's place and File > Save:
 
 -**3. Run the setup function**
 -Next, go to Run > Run Function > initialSetup to run this function.
