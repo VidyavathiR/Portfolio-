@@ -1,6 +1,6 @@
 # Portfolio-
 
-Welcome to my personal portfolio! This project showcases my skills, projects, and achievements. Feel free to explore and learn more about my journey in the world of web development.
+Welcome to my personal portfolio!
 
 ## Overview
 
@@ -14,14 +14,11 @@ This personal portfolio is built using HTML, CSS, and JavaScript. It is designed
 - **Portfolio Sections:**
   - Organized sections such as "About Me," "Projects," "Skills," "Education," and "Contact."
 
-- **Projects Showcase:**
-  - Detailed information about various projects, including descriptions, technologies used, and links to repositories or live demos.
-
-- **Skills Matrix:**
+  - **Skills Matrix:**
   - Visual representation of skills to provide a quick overview.
 
 - **Contact Form:**
-  - A contact form for visitors to reach out or clear instructions on how to contact me.
+  - A contact form for visitors to reach out.
 
 - **Interactive Elements:**
   - JavaScript-powered interactive elements to enhance the user experience.
