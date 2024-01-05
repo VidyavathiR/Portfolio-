@@ -27,9 +27,9 @@ This personal portfolio is built using HTML, CSS, and JavaScript. It is designed
 
 
 ## Create an HTML form that stores the submitted form data in Google Sheets using plain 'ol JavaScript (ES6), Google Apps Script, Fetch and FormData.
--**1. Create a new Google Sheet**
--First, go to Google Sheets and Start a new spreadsheet with the Blank template.
--Rename it abc. Or whatever, it doesn't matter.
+- **1. Create a new Google Sheet**
+ - First, go to Google Sheets and Start a new spreadsheet with the Blank template.
+ - Rename it abc. Or whatever, it doesn't matter.
 
 -**2. Create a Google Apps Script**
 -Click on Tools > Script Editor… which should open a new tab.
