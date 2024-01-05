@@ -37,7 +37,7 @@ This personal portfolio is built using HTML, CSS, and JavaScript. It is designed
   - Now, delete the function myFunction() {} block within the Code.gs tab.
   - Paste the googlesheet.js script in it's place and File > Save:
 
--**3. Run the setup function**
+-**3. Run the setup function:**
  -Next, go to Run > Run Function > initialSetup to run this function.
  -In the Authorization Required dialog, click on Review Permissions.
  -Sign in or pick the Google account associated with this projects.
