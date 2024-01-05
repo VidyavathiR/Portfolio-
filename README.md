@@ -38,11 +38,11 @@ This personal portfolio is built using HTML, CSS, and JavaScript. It is designed
   - Paste the googlesheet.js script in it's place and File > Save:
 
 - **3. Run the setup function:**
-  -Next, go to Run > Run Function > initialSetup to run this function.
-  -In the Authorization Required dialog, click on Review Permissions.
-  -Sign in or pick the Google account associated with this projects.
-  -You should see a dialog that says Hi {Your Name}, Submit Form to Google Sheets wants to...
-  -Click Allow
+  - Next, go to Run > Run Function > initialSetup to run this function.
+  - In the Authorization Required dialog, click on Review Permissions.
+  - Sign in or pick the Google account associated with this projects.
+  - You should see a dialog that says Hi {Your Name}, Submit Form to Google Sheets wants to...
+  - Click Allow
 
 -**5. Add a new project trigger**
  -Click on Edit > Current project’s triggers.
