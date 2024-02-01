@@ -35,6 +35,8 @@ Portfolio is built using HTML, CSS, and JavaScript for the frontend, Python (Fla
 - Python (Flask)
 - MySQL
 
-Thank you
+---
+
+**Happy Coding! 🚀**
 
 
